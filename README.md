@@ -17,6 +17,9 @@ A MERN challenge that allows users to search for new books to read and can save 
 ## Usage
 Please use the deployed application link [**clicking here**](https://leman102-googlebooks.herokuapp.com/) and have fun!
 
+![Google Book Search](https://user-images.githubusercontent.com/64149102/193945092-b4993497-1454-4c0c-b03f-5a41ce01616e.gif)
+
+
 ## Contributing
 Contributions are more than welcome because we can learn, inspire, and create. Any contributions you make are greatly appreciated. Please reach out to me before making any changes. Thank you! 😊
 ## Technologies
